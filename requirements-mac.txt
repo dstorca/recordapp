@@ -29,7 +29,7 @@ numba==0.51.2
 numpy==1.19.4
 opencv-python==4.4.0.44
 opencv-python-headless==4.4.0.44
-Pillow==8.0.1
+Pillow==8.3.2
 proglog==0.1.9
 protobuf==3.13.0
 PyAudio==0.2.11

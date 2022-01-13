@@ -38,7 +38,7 @@ numba==0.51.2
 numpy==1.18.5
 opencv-python==4.2.0.34
 packaging==20.4
-Pillow==7.1.2
+Pillow==9.0.0
 pipwin==0.5.0
 proglog==0.1.9
 protobuf==3.13.0

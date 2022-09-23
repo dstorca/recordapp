@@ -41,7 +41,7 @@ packaging==20.4
 Pillow==7.1.2
 pipwin==0.5.0
 proglog==0.1.9
-protobuf==3.13.0
+protobuf==3.18.3
 PyAudio @ file:///C:/Users/dst11/recordapp/PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
 pyjsparser==2.7.1
 pynput==1.7.1

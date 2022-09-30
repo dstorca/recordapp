@@ -14,7 +14,7 @@ idna==2.10
 imageio==2.9.0
 imageio-ffmpeg==0.4.2
 importlib-metadata==2.0.0
-joblib==0.17.0
+joblib==1.2.0
 Keras==2.0.6
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
